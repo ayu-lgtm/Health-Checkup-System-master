@@ -1,0 +1,14 @@
+git Status => to check your files status
+git add . => add changes to commit
+git checkout -b "branch_name" => change branch 
+git commit -m "Initial change" => commit changes
+git push origin "branch_name" => push to main branch
+git branch => to check all branch
+git pull origin master => pull files from main branch
+git push origin master
+
+
+------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>
+If koi naya library instal karega to yaha daal dena dono log deakh lenge
+
+npm install react-router-dom         --------------->> ye install kiye route ko bas setup kar diye hai.
